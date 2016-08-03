@@ -1,2 +1,3 @@
 # xvosting
 Uzbekona xvosting repisitori 
+🌍
