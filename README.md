@@ -1,0 +1,2 @@
+# xvosting
+Uzbekona xvosting repisitori 
